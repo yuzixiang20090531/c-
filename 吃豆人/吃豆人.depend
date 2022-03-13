@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642582052 source:f:\休闲\吃豆人\main.cpp
+	<cstdio>
+	<iostream>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+
+1642582052 source:f:\c++小游戏\吃豆人\main.cpp
+	<cstdio>
+	<iostream>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+

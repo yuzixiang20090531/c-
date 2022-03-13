@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1636270625 source:c:\users\administrator\desktop\main\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+
+1636270802 source:g:\c++\键盘\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+
+1637484737 source:c:\users\administrator\desktop\键盘\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1637484738 source:g:\c++\俄罗斯方块\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1637484738 source:f:\c++小游戏\俄罗斯方块\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
